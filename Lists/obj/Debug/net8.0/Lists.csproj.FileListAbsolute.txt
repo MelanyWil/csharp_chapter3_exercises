@@ -1,0 +1,14 @@
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Lists/bin/Debug/net8.0/Lists
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Lists/bin/Debug/net8.0/Lists.deps.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Lists/bin/Debug/net8.0/Lists.runtimeconfig.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Lists/bin/Debug/net8.0/Lists.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Lists/bin/Debug/net8.0/Lists.pdb
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Lists/obj/Debug/net8.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Lists/obj/Debug/net8.0/Lists.AssemblyInfoInputs.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Lists/obj/Debug/net8.0/Lists.AssemblyInfo.cs
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Lists/obj/Debug/net8.0/Lists.csproj.CoreCompileInputs.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Lists/obj/Debug/net8.0/Lists.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Lists/obj/Debug/net8.0/refint/Lists.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Lists/obj/Debug/net8.0/Lists.pdb
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Lists/obj/Debug/net8.0/Lists.genruntimeconfig.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Lists/obj/Debug/net8.0/ref/Lists.dll

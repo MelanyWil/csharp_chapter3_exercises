@@ -7,7 +7,6 @@
 /Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
 /Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
 /Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
-/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
 /Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Arrays/obj/Debug/net8.0/Arrays.dll
 /Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Arrays/obj/Debug/net8.0/refint/Arrays.dll
 /Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Arrays/obj/Debug/net8.0/Arrays.pdb
