@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{F662ED1C-30E1-460B-AE25-4EE30C8CC80A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{DEF17FDE-EE7B-4659-AA69-F87B7D7B4CE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{F662ED1C-30E1-460B-AE25-4EE30C8CC80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F662ED1C-30E1-460B-AE25-4EE30C8CC80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F662ED1C-30E1-460B-AE25-4EE30C8CC80A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF17FDE-EE7B-4659-AA69-F87B7D7B4CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF17FDE-EE7B-4659-AA69-F87B7D7B4CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF17FDE-EE7B-4659-AA69-F87B7D7B4CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF17FDE-EE7B-4659-AA69-F87B7D7B4CE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

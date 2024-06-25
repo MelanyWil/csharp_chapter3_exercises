@@ -1,0 +1,14 @@
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Dictionaries/bin/Debug/net8.0/Dictionaries
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Dictionaries/bin/Debug/net8.0/Dictionaries.deps.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Dictionaries/bin/Debug/net8.0/Dictionaries.runtimeconfig.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Dictionaries/bin/Debug/net8.0/Dictionaries.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Dictionaries/bin/Debug/net8.0/Dictionaries.pdb
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Dictionaries/obj/Debug/net8.0/Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Dictionaries/obj/Debug/net8.0/Dictionaries.AssemblyInfoInputs.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Dictionaries/obj/Debug/net8.0/Dictionaries.AssemblyInfo.cs
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Dictionaries/obj/Debug/net8.0/Dictionaries.csproj.CoreCompileInputs.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Dictionaries/obj/Debug/net8.0/Dictionaries.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Dictionaries/obj/Debug/net8.0/refint/Dictionaries.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Dictionaries/obj/Debug/net8.0/Dictionaries.pdb
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Dictionaries/obj/Debug/net8.0/Dictionaries.genruntimeconfig.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Exercises/Dictionaries/obj/Debug/net8.0/ref/Dictionaries.dll
