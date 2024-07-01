@@ -12,15 +12,16 @@ do
     string input = Console.ReadLine();
     newStudent = input;
 
-    if (!Equals(newStudent, "")) {
+    if (!Equals(newStudent, ""))
+    {
         Console.WriteLine("Student ID");
         input = Console.ReadLine();
         double newStudentId = double.Parse(input);
         students.Add(newStudentId, newStudent);
     }
-    
-} while(!Equals(newStudent, ""));
+} while (!Equals(newStudent, ""));
 
-foreach(KeyValuePair<double, string>student in students) {
+foreach (KeyValuePair<double, string> student in students)
+{
     Console.WriteLine(student.Key + " : " + student.Value);
 }
